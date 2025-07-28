@@ -1,0 +1,5 @@
+chapter_1/data/*
+metastore_db
+poetry.lock
+derby.log
+.venv
